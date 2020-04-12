@@ -1,0 +1,27 @@
+{
+  "name": "app1",
+  "version": "0.0.1",
+  "description": "practica de nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jehernandezv/nodeapp1.git"
+  },
+  "keywords": [
+    "app1",
+    "practicajh"
+  ],
+  "author": "Jhonn Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jehernandezv/nodeapp1/issues"
+  },
+  "homepage": "https://github.com/jehernandezv/nodeapp1#readme"
+}
